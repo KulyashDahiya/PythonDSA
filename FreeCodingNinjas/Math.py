@@ -1,5 +1,7 @@
 import math
 
+help(math)
+
 print(math.pi)
 
 print(math.radians(90))
