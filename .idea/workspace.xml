@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27d0856f-2c68-4e08-8972-afb904e9cd51" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CodingNinjas/Week4/Functions/Armstrong.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingNinjas/Week4/.ipynb_checkpoints/ListMutableImmutable-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingNinjas/Week4/ListMutableImmutable.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CodingNinjas/rough.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodingNinjas/rough.py" afterDir="false" />
     </list>
@@ -132,7 +133,7 @@
       <updated>1686983514839</updated>
       <workItem from="1686983515873" duration="621000" />
       <workItem from="1686994995328" duration="11432000" />
-      <workItem from="1690365502760" duration="37507000" />
+      <workItem from="1690365502760" duration="38990000" />
     </task>
     <servers />
   </component>
@@ -150,11 +151,12 @@
     <SUITE FILE_PATH="coverage/PythonDSA$AlphaPattern.coverage" NAME="AlphaPattern Coverage Results" MODIFIED="1690440229752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodingNinjas/Week2Patterns" />
     <SUITE FILE_PATH="coverage/PythonDSA$Armstrong.coverage" NAME="Armstrong Coverage Results" MODIFIED="1690861668768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodingNinjas/Week4/Functions" />
     <SUITE FILE_PATH="coverage/PythonDSA$PracticeProblem1.coverage" NAME="PracticeProblem1 Coverage Results" MODIFIED="1690437483590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodingNinjas/Week2Patterns" />
-    <SUITE FILE_PATH="coverage/PythonDSA$rough.coverage" NAME="rough Coverage Results" MODIFIED="1690904541985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodingNinjas" />
+    <SUITE FILE_PATH="coverage/PythonDSA$rough.coverage" NAME="rough Coverage Results" MODIFIED="1690907617015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodingNinjas" />
     <SUITE FILE_PATH="coverage/PythonDSA$TriangularPatternsVideo.coverage" NAME="TriangularPatternsVideo Coverage Results" MODIFIED="1690396066260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodingNinjas/Week2Patterns" />
     <SUITE FILE_PATH="coverage/PythonDSA$CharacterPattern.coverage" NAME="CharacterPattern Coverage Results" MODIFIED="1690432587762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodingNinjas/Week2Patterns" />
     <SUITE FILE_PATH="coverage/PythonDSA$DiamondofStars.coverage" NAME="DiamondofStars Coverage Results" MODIFIED="1690483195196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodingNinjas/Week3/Patterns" />
     <SUITE FILE_PATH="coverage/PythonDSA$PracticeProblem2.coverage" NAME="PracticeProblem2 Coverage Results" MODIFIED="1690438715470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodingNinjas/Week2Patterns" />
+    <SUITE FILE_PATH="coverage/PythonDSA$ListMutable.coverage" NAME="ListMutable Coverage Results" MODIFIED="1690907343879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodingNinjas/Week4" />
     <SUITE FILE_PATH="coverage/PythonDSA$PracticeX.coverage" NAME="PracticeX Coverage Results" MODIFIED="1690486329910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodingNinjas/Week3/Patterns" />
     <SUITE FILE_PATH="coverage/PythonDSA$ElseWithLoops.coverage" NAME="ElseWithLoops Coverage Results" MODIFIED="1690575800879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodingNinjas/Week3/2Loops" />
     <SUITE FILE_PATH="coverage/PythonDSA$MirrorNumberPattern.coverage" NAME="MirrorNumberPattern Coverage Results" MODIFIED="1690483513137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodingNinjas/Week3/Patterns" />
