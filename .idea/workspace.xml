@@ -5,10 +5,153 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27d0856f-2c68-4e08-8972-afb904e9cd51" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingNinjas/Week4/.ipynb_checkpoints/ListMutableImmutable-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingNinjas/Week4/ListMutableImmutable.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingNinjas/rough.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodingNinjas/rough.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/DSA/Week1/Recursion1/.ipynb_checkpoints/0.NnaturalNumbersAndFibonacci-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/DSA/Week1/Recursion1/.ipynb_checkpoints/1.ListSorted-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/DSA/Week1/Recursion1/.ipynb_checkpoints/2.SumOfArray-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/DSA/Week1/Recursion1/.ipynb_checkpoints/3.FindIndex-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/DSA/Week1/Recursion1/0.NnaturalNumbersAndFibonacci.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/DSA/Week1/Recursion1/1.ListSorted.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/DSA/Week1/Recursion1/2.SumOfArray.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/DSA/Week1/Recursion1/3.FindIndex.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/DSA/Week1/Recursion1/zRecursion1Notes.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/DSA/Week1/Recursion2/.ipynb_checkpoints/1.RemoveXfromString-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/DSA/Week1/Recursion2/.ipynb_checkpoints/2.ReplacePI-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/DSA/Week1/Recursion2/.ipynb_checkpoints/3.RemoveConsecutiveDuplicates-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/DSA/Week1/Recursion2/.ipynb_checkpoints/4.BinarySearchUsingRecursion-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/DSA/Week1/Recursion2/.ipynb_checkpoints/5.MergeSort-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/DSA/Week1/Recursion2/.ipynb_checkpoints/6.QuickSort-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/DSA/Week1/Recursion2/.ipynb_checkpoints/7.TowerOfHanoi-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/DSA/Week1/Recursion2/1.RemoveXfromString.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/DSA/Week1/Recursion2/2.ReplacePI.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/DSA/Week1/Recursion2/3.RemoveConsecutiveDuplicates.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/DSA/Week1/Recursion2/4.BinarySearchUsingRecursion.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/DSA/Week1/Recursion2/5.MergeSort.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/DSA/Week1/Recursion2/6.QuickSort.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/DSA/Week1/Recursion2/7.TowerOfHanoi.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/DSA/Week1/Recursion2/z_NotesRecursion2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week1/.ipynb_checkpoints/TakingVariableInput-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week1/InroductionToPython.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week1/TakingVariableInput.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week2/1Loops/Calculator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week2/1Loops/Nth Fibonacci.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week2/1Loops/Palindrome.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week2/1Loops/ReverseOfANumber.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week2/1Loops/SumOfEvenOdd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week2/2Patterns/AlphaPattern.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week2/2Patterns/CharacterPattern.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week2/2Patterns/InterestingAlphabet.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week2/2Patterns/NumberPattern.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week2/2Patterns/NumberPattern2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week2/2Patterns/PracticeProblem1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week2/2Patterns/PracticeProblem2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week2/2Patterns/ReverseNumberPattern.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week2/2Patterns/TriangularNumberPattern.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week2/2Patterns/TriangularPatternV1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week2/2Patterns/TriangularPatternsVideo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week2/2Patterns/TriangularStarPattern.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week3/1Patterns/Assignment/ArrowPattern.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week3/1Patterns/Assignment/NumberPattern.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week3/1Patterns/Assignment/PyramidNumberPattern.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week3/1Patterns/Assignment/ZeroesAndStars.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week3/1Patterns/DiamondofStars.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week3/1Patterns/InvertedNumber.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week3/1Patterns/MirrorNumberPattern.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week3/1Patterns/PracticeDiamondNumbers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week3/1Patterns/PracticeX.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week3/1Patterns/StarPattern.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week3/1Patterns/TriangleOfNumbers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week3/2Loops/BinaryPattern.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week3/2Loops/DiamondOfStars.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week3/2Loops/ElseWithLoops.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week3/2Loops/NumberPyramid.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week3/2Loops/RectangularNumbers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week3/MoreOnLoops.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week3/Patterns2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week4/.ipynb_checkpoints/AlternateSwap-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week4/0.NewLearn/.ipynb_checkpoints/Intersection-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week4/0.NewLearn/Intersection.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week4/1.Functions/Armstrong.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week4/2.ArraysList/.ipynb_checkpoints/ListMutableImmutable-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week4/2.ArraysList/.ipynb_checkpoints/LoopingOnList-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week4/2.ArraysList/.ipynb_checkpoints/ReverseList-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week4/2.ArraysList/ListMutableImmutable.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week4/2.ArraysList/LoopingOnList.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week4/2.ArraysList/ReverseList.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week4/3.Assignment/.ipynb_checkpoints/FindDuplicate-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week4/3.Assignment/.ipynb_checkpoints/FindUnique-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week4/3.Assignment/.ipynb_checkpoints/Intersection-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week4/3.Assignment/.ipynb_checkpoints/PairSum-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week4/3.Assignment/.ipynb_checkpoints/Sort01-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week4/3.Assignment/.ipynb_checkpoints/TripletSum-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week4/3.Assignment/FindDuplicate.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week4/3.Assignment/FindUnique.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week4/3.Assignment/Intersection.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week4/3.Assignment/PairSum.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week4/3.Assignment/Sort01.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week4/3.Assignment/TripletSum.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week4/AlternateSwap.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week4/ArraysAndList.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week4/Functions.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week5/1.BinarySearch/.ipynb_checkpoints/CodeBinarySearch-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week5/1.BinarySearch/.ipynb_checkpoints/FirstLastDuplicate-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week5/1.BinarySearch/2.SelectionSort/.ipynb_checkpoints/SelectionSort-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week5/1.BinarySearch/2.SelectionSort/.ipynb_checkpoints/StableSelectionSort-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week5/1.BinarySearch/2.SelectionSort/SelectionSort.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week5/1.BinarySearch/2.SelectionSort/StableSelectionSort.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week5/1.BinarySearch/3.BubbleSort/.ipynb_checkpoints/BubbleSort-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week5/1.BinarySearch/3.BubbleSort/BubbleSort.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week5/1.BinarySearch/4.Insertion Sort/.ipynb_checkpoints/InsertionSort-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week5/1.BinarySearch/4.Insertion Sort/InsertionSort.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week5/1.BinarySearch/5.MergeSort/.ipynb_checkpoints/5.MergeSort-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week5/1.BinarySearch/5.MergeSort/5.MergeSort.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week5/1.BinarySearch/6.Assignments/.ipynb_checkpoints/SecondLargest-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week5/1.BinarySearch/6.Assignments/.ipynb_checkpoints/Sort012-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week5/1.BinarySearch/6.Assignments/.ipynb_checkpoints/SumOfTwoArrays-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week5/1.BinarySearch/6.Assignments/SecondLargest.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week5/1.BinarySearch/6.Assignments/Sort012.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week5/1.BinarySearch/6.Assignments/SumOfTwoArrays.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week5/1.BinarySearch/CodeBinarySearch.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week5/1.BinarySearch/ExplanatoryBinarySearch.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week5/1.BinarySearch/FirstLastDuplicate.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week5/1.BinarySearch/SearchingAndSorting.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week5/2.Strings/.ipynb_checkpoints/Check Permutation-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week5/2.Strings/.ipynb_checkpoints/HighestOccuringCharacter-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week5/2.Strings/.ipynb_checkpoints/RemoveCharacter-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week5/2.Strings/.ipynb_checkpoints/RemoveConsecutiveDuplicates-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week5/2.Strings/.ipynb_checkpoints/ReverseEachWord-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week5/2.Strings/.ipynb_checkpoints/zCompressTheString-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week5/2.Strings/Check Permutation.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week5/2.Strings/HighestOccuringCharacter.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week5/2.Strings/RemoveCharacter.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week5/2.Strings/RemoveConsecutiveDuplicates.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week5/2.Strings/ReverseEachWord.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week5/2.Strings/zCompressTheString.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week5/2.Strings/zNotesStrings.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week6/1.TwoDimensionalLists/.ipynb_checkpoints/1_ListComprehension-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week6/1.TwoDimensionalLists/.ipynb_checkpoints/2.TakingInputFor2Dlist-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week6/1.TwoDimensionalLists/.ipynb_checkpoints/3.PrintingOutput-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week6/1.TwoDimensionalLists/1_ListComprehension.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week6/1.TwoDimensionalLists/2.TakingInputFor2Dlist.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week6/1.TwoDimensionalLists/3.PrintingOutput.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week6/1.TwoDimensionalLists/Notes_2DList.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week6/1.TwoDimensionalLists/zProblemSolving/.ipynb_checkpoints/1.RowWiseSum-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week6/1.TwoDimensionalLists/zProblemSolving/.ipynb_checkpoints/2.MaxColumnSum-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week6/1.TwoDimensionalLists/zProblemSolving/.ipynb_checkpoints/3.MaxRowOrColSum-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week6/1.TwoDimensionalLists/zProblemSolving/.ipynb_checkpoints/4.WavePrint-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week6/1.TwoDimensionalLists/zProblemSolving/.ipynb_checkpoints/5.SpiralPrint-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week6/1.TwoDimensionalLists/zProblemSolving/1.RowWiseSum.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week6/1.TwoDimensionalLists/zProblemSolving/2.MaxColumnSum.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week6/1.TwoDimensionalLists/zProblemSolving/3.MaxRowOrColSum.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week6/1.TwoDimensionalLists/zProblemSolving/4.WavePrint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week6/1.TwoDimensionalLists/zProblemSolving/5.SpiralPrint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week6/2.TupleDictionarySet/.ipynb_checkpoints/1.Tuple-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week6/2.TupleDictionarySet/.ipynb_checkpoints/2.Dictionary-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week6/2.TupleDictionarySet/.ipynb_checkpoints/3.Sets-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week6/2.TupleDictionarySet/1.Tuple.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week6/2.TupleDictionarySet/2.Dictionary.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week6/2.TupleDictionarySet/3.Sets.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingNinjas/IntroToPython/Week6/2.TupleDictionarySet/Notes_tuple_dict_set.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Z_NOTES/IntroToPython.pdf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +196,7 @@
       <recent name="$PROJECT_DIR$/CodingNinjas" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.main">
     <configuration name="NumberPattern1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -135,6 +278,7 @@
       <workItem from="1686994995328" duration="11432000" />
       <workItem from="1690365502760" duration="39364000" />
       <workItem from="1690913677909" duration="68000" />
+      <workItem from="1691988267644" duration="2000" />
     </task>
     <servers />
   </component>
