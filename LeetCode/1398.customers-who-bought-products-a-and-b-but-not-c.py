@@ -77,3 +77,25 @@ INSERT INTO Customer (customer_id, product) VALUES
 -- | customer_id |
 -- |-------------|
 -- | 3           |
+
+
+
+--SOLUTIONS
+
+select customer_id from customer
+where product in ('A', 'B')
+group by customer_id
+having count(distinct product) = 2
+and customer_id not in 
+(select customer_id from customer where product = 'C');
+
+
+-- OR USING JOIN
+
+SELECT DISTINCT c1.customer_id
+FROM Customer c1
+JOIN Customer c2 ON c1.customer_id = c2.customer_id
+LEFT JOIN Customer c3 ON c1.customer_id = c3.customer_id AND c3.product = 'C'
+WHERE c1.product = 'A' 
+  AND c2.product = 'B'
+  AND c3.customer_id IS NULL;
