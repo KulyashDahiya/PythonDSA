@@ -34,6 +34,10 @@ class Solution:
             else:
                 if not root.left:
                     return root.right
+                elif not root.right:
+                    return root.left
+                elif not root.left and root.right:
+                    return None
 
                 min_val = min_node(root.right)
 
@@ -41,8 +45,6 @@ class Solution:
                 root.right = delete_node(root.right, min_val)
 
             return root
-
-
 
         return delete_node(root, key)
         
