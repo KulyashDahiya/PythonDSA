@@ -7,6 +7,20 @@
 # @lc code=start
 class Solution:
     def hIndex(self, citations: List[int]) -> int:
+
+        # n = len(citations)
+
+        # if n == 1:
+        #     return 1 if citations[0] > 0 else 0
+
+        # citations.sort(reverse=True)
+
+        # for i in range(n):
+        #     if citations[i] <= i:
+        #         return i
+        
+        # return n
+
         n = len(citations)
 
         if n == 1:
