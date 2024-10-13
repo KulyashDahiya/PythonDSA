@@ -11,7 +11,7 @@ class Solution:
         if not s or not words:
             return []
 
- # Sliding Window Approach (Most Opimised) T.C -> O(n), where n is the length of the string s ; S.C -> O(m), where m is the total number of words in the list words
+ # Sliding Window Approach (Most Opimised) T.C -> O(n), where n is the length of the string s ; S.C -> O(m), where m is the total number of words in the list words.
 
         n = len(s)
         res = []
