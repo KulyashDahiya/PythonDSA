@@ -20,7 +20,7 @@ class Solution:
             for j in range(columns):
                 if matrix[i][j] == 0:
                     zero_rows.add(i)
-                    zero_columns.add(j)
+                    zero_columns.add(j) 
 
         
         for row in list(zero_rows):
